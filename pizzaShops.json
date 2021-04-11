@@ -4,27 +4,32 @@
 
 	{
 		"shopName": "Joe's Pizza & Subs",
-		"shopAddress": "8390 Centreville Rd, Manassas Park, VA 20111"
+		"shopAddress": "8390 Centreville Rd, Manassas Park, VA 20111",
+		"image_url": ""
 	},
 
 	{
 		"shopName": "Vocelli Pizza",
-		"shopAddress": "8671 Sudley Rd, Manassas, VA 20110"
+		"shopAddress": "8671 Sudley Rd, Manassas, VA 20110",
+		"image_url": ""
 	},
 
 	{
 		"shopName": "Pizza Hut",
-		"shopAddress": "8263 Shoppers Square, Manassas, VA 20111"
+		"shopAddress": "8263 Shoppers Square, Manassas, VA 20111",
+		"image_url": ""
 	},
 	
 	{
 		"shopName": "Paisano's Pizza",
-		"shopAddress": "8683 Sudley Rd, Manassas, VA 20110"
+		"shopAddress": "8683 Sudley Rd, Manassas, VA 20110",
+		"image_url": ""
 	},
 	
 	{
 		"shopName": "Domino's Pizza",
-		"shopAddress": "8813 Centreville Rd, Manassas, VA 20110"
+		"shopAddress": "8813 Centreville Rd, Manassas, VA 20110",
+		"image_url": ""
 	}
 	
 
