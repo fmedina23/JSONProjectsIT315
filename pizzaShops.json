@@ -5,31 +5,51 @@
 	{
 		"shopName": "Joe's Pizza & Subs",
 		"shopAddress": "8390 Centreville Rd, Manassas Park, VA 20111",
-		"image_url": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/joesPizza.jpg"
+		"shopImage": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/joesPizza.jpg",
+		"shopDescription" = "Joe's Pizza & Subs has been serving the community for over thirty years. We try to do our very best to provide great quality and service for our amazing customers. If you haven't tried us, call us today for delivery or stop by and pick up an order to go. We look forward to serving you!",
+		"shopRating" = 4.2,
+		"shopDelOpt" = "Yes",
+		"shopSite" = "https://joespizzamanassaspark.com"
 	},
 
 	{
 		"shopName": "Vocelli Pizza",
 		"shopAddress": "8671 Sudley Rd, Manassas, VA 20110",
-		"image_url": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/vocelliPizza.jpg"
+		"shopImage": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/vocelliPizza.jpg",
+		"shopDescription" = "Vocelli Pizza is a pizzeria based in Pittsburgh, Pennsylvania. As of 2008, the chain has stores in the District of Columbia, Florida, Maryland, North Carolina, Ohio, Pennsylvania, South Carolina, Virginia, and West Virginia.",
+		"shopRating" = 4.2,
+     		"shopDelOpt" = "Yes",
+		"shopSite" = "https://www.vocellipizza.com"
 	},
 
 	{
 		"shopName": "Pizza Hut",
 		"shopAddress": "8263 Shoppers Square, Manassas, VA 20111",
-		"image_url": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/pizzahut.jpg"
+		"shopImage": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/pizzahut.jpg",
+		"shopDescription" = "Find your nearby Pizza Hut at 8263 Shoppers Square in Manassas, VA. Pizza Hut food delivery and carryout pizza is hot, fast, and reliable!",
+		"shopRating" = 2.6,
+		"shopDelOpt" = "Yes",
+		"shopSite" = "https://locations.pizzahut.com/va/manassas/8263-shoppers-square?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=287889"
 	},
 	
 	{
 		"shopName": "Paisano's Pizza",
 		"shopAddress": "8683 Sudley Rd, Manassas, VA 20110",
-		"image_url": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/paisanos.jpg"
+		"shopImage": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/paisanos.jpg",
+		"shopDescription" = "When you want to sit down and dine with your family at a local pizza restaurant, Paisano's Pizza is the ideal choice. From traditional pies and subs to classic Italian entrees and salads, we have fare to please children, grandparents, and everyone in between.",
+		"shopRating" = 3.8,
+		"shopDelOpt" = "Yes",
+		"shopSite" = "https://www.paisanospizza.com"
 	},
 	
 	{
 		"shopName": "Domino's Pizza",
 		"shopAddress": "8813 Centreville Rd, Manassas, VA 20110",
-		"image_url": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/dominos.jpg"
+		"shopImage": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/dominos.jpg",
+		"shopDescription" = "How much do you know about Domino’s? When it comes to making and delivering delicious pizza, Domino’s is king. Domino’s operates more than 14,000 pizza restaurants in more than 85 countries, and delivers more than 1.5 million pizzas each day. Domino’s delivery experts drive more than 10 million miles across the United States every week to bring you the best food we can make.",
+		"shopRating" = 4.2,
+		"shopDelOpt" = "Yes",
+		"shopSite" = "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
 	}
 	
 
