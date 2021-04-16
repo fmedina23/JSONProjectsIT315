@@ -6,7 +6,7 @@
 		"shopName": "Joe's Pizza & Subs",
 		"shopAddress": "8390 Centreville Rd, Manassas Park, VA 20111",
 		"shopImage": "https://raw.githubusercontent.com/fmedina23/JSONProjectsIT315/master/joesPizza.jpg",
-		"shopDescription" = "Joe's Pizza & Subs has been serving the community for over thirty years. We try to do our very best to provide great quality and service for our amazing customers. If you haven't tried us, call us today for delivery or stop by and pick up an order to go. We look forward to serving you!",
+		"shopDescription": "Joe's Pizza & Subs has been serving the community for over thirty years. We try to do our very best to provide great quality and service for our amazing customers. If you haven't tried us, call us today for delivery or stop by and pick up an order to go. We look forward to serving you!",
 		"shopRating": 4.2,
 		"shopDelOpt": "Yes",
 		"shopSite": "https://joespizzamanassaspark.com"
